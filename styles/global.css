@@ -33,7 +33,7 @@
     --py-base: 1.5rem;
     --py-lg: 1.5rem;
     --py-xl: 3rem;
-
+}
 
     html {
         font-family: var(--ff-sans);
@@ -88,5 +88,5 @@
         }
     }
 
-}
+
 
